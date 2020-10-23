@@ -1,5 +1,14 @@
-# node-mongo-signup-verification-api
+# Programa de TEST DE APTITUD Y ACTITUD MONGODB
 
-NodeJS + MongoDB - API with Email Sign Up, Verification, Authentication & Forgot Password
 
-For documentation and instructions see https://jasonwatmore.com/post/2020/05/13/node-mongo-api-with-email-sign-up-verification-authentication-forgot-password
+Este apartado es la parte del backen del proyecto aqui se realiza la logica de negocio y el manejo de datos junto a la base de datos
+
+
+DDespues de inicializar mongoDB debes primero inicializar esta carpeta y luego incializar la carpeta de angular
+
+
+Gabriel Felipe Aguilar
+Sebastian Rodriguez Velasquez
+
+
+Universidad central
